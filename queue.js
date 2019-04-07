@@ -1,6 +1,7 @@
 
 module.exports.createQueue = function(){
     const queue = [];
+    const size = 0;
     return {
         //add or enqueue
         enqueue(item){

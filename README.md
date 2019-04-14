@@ -6,3 +6,4 @@ examples
 ```
 getRandomNumber(min, max);
 ```
+getWeek();
